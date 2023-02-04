@@ -5,6 +5,8 @@
     <link>https://albert18711.github.io/archives/</link>
     <description>Recent content in Archives on 維的隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://albert18711.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <managingEditor>albert18711@gmail.com (維的隨筆)</managingEditor>
+    <webMaster>albert18711@gmail.com (維的隨筆)</webMaster><atom:link href="https://albert18711.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
